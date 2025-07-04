@@ -1,4 +1,5 @@
-bitnami/redis:8.0.2-debian-12-r3
+busybox:1.37
+#bitnami/redis:8.0.2-debian-12-r3
 #alpine:3.21.3
 #nginx:1.28.0-alpine3.21
 #openresty/openresty:1.27.1.2-alpine
