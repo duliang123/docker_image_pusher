@@ -1,8 +1,8 @@
 #apache/apisix:3.13.0-debian
 #busybox:1.37
 #bitnami/redis:8.0.2-debian-12-r3
-bitnamilegacy/redis:7.0.9-debian-11-r6
-bitnamilegacy/redis:6.0.9
+#bitnamilegacy/redis:7.0.9-debian-11-r6
+#bitnamilegacy/redis:6.0.9
 bitnamilegacy/memcached:1.6.39-debian-12-r1
 #alpine:3.21.3
 #nginx:1.28.0-alpine3.21
