@@ -1,4 +1,4 @@
-#sonatype/nexus3:3.76.1
+sonatype/nexus3:3.76.1
 #apache/apisix:3.13.0-debian
 #busybox:1.37
 #bitnami/redis:8.0.2-debian-12-r3
