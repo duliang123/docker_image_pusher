@@ -1,4 +1,6 @@
-gitea/gitea:1.27.3
+jenkins/jenkins:2.568.3-lts-jdk21
+jenkins/jenkins:2.541.3-lts-jdk17
+#gitea/gitea:1.27.3
 #amazoncorretto:8u492-alpine3.24
 
 #sonatype/nexus3:3.76.1
