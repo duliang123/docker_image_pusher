@@ -1,15 +1,15 @@
 #maven:3.9.16-amazoncorretto-8-alpine
 #maven:3.9.16-eclipse-temurin-8-alpine
-docker:29.8.1-dind-alpine3.24
-jenkins/inbound-agent:alpine3.24-jdk21
-#jenkins/inbound-agent:latest-alpine-jdk21
+#jenkins/inbound-agent:alpine3.24-jdk21
 #jenkins/jenkins:2.568.3-lts-jdk21
 #jenkins/jenkins:2.541.3-lts-jdk17
-#gitea/gitea:1.27.3
 #amazoncorretto:8u492-alpine3.24
 
+#docker:29.8.1-dind-alpine3.24
 #docker:28.5.2-cli-alpine3.22
 #docker:28.5.2-dind-alpine3.22
+
+#gitea/gitea:1.27.3
 
 #sonatype/nexus3:3.76.1
 #apache/apisix:3.13.0-debian
@@ -25,7 +25,6 @@ jenkins/inbound-agent:alpine3.24-jdk21
 #nginxproxy/nginx-proxy:1.7.1-alpine
 #node:22.23.3-alpine3.24
 #php:8.2.31-fpm-alpine3.24
-#php:8.2.28-fpm-alpine3.21
 #curlimages/curl:8.13.0
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
