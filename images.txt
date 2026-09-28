@@ -8,6 +8,9 @@ jenkins/inbound-agent:alpine3.24-jdk21
 #gitea/gitea:1.27.3
 #amazoncorretto:8u492-alpine3.24
 
+#docker:28.5.2-cli-alpine3.22
+#docker:28.5.2-dind-alpine3.22
+
 #sonatype/nexus3:3.76.1
 #apache/apisix:3.13.0-debian
 #busybox:1.37
@@ -24,8 +27,6 @@ jenkins/inbound-agent:alpine3.24-jdk21
 #php:8.2.31-fpm-alpine3.24
 #php:8.2.28-fpm-alpine3.21
 #curlimages/curl:8.13.0
-docker:28.5.2-cli-alpine3.22
-docker:28.5.2-dind-alpine3.22
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
