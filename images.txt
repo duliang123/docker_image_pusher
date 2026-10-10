@@ -5,6 +5,7 @@
 #jenkins/jenkins:2.541.3-lts-jdk17
 #amazoncorretto:8u492-alpine3.24
 
+buildkit:buildx-stable-1
 #docker:29.8.1-dind-alpine3.24
 #docker:28.5.2-cli-alpine3.22
 #docker:28.5.2-dind-alpine3.22
@@ -19,7 +20,7 @@
 #bitnamilegacy/redis:6.0.9
 #bitnamilegacy/memcached:1.6.39-debian-12-r1
 
-alpine:3.24.2
+#alpine:3.24.2
 
 #nginx:1.28.0-alpine3.21
 #openresty/openresty:1.29.2.5-alpine
