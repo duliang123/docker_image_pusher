@@ -5,7 +5,7 @@
 #jenkins/jenkins:2.541.3-lts-jdk17
 #amazoncorretto:8u492-alpine3.24
 
-tonistiigi/binfmt
+#tonistiigi/binfmt
 #moby/buildkit:buildx-stable-1
 #docker:29.8.1-dind-alpine3.24
 #docker:28.5.2-cli-alpine3.22
